@@ -2,7 +2,7 @@
 layout: post
 title:  "HTB University CTF 2022: Fake News"
 date:   2022-12-05 00:00:00
-tags: [Wordpress, Binary, PHP, Datetime]
+tags: [Wordpress, Binary, PHP]
 description: 'Analyse how a wordpress page have been hacked.'
 categories: [WriteUp, Forensic, HTB-University-CTF-2022]
 ---
