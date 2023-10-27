@@ -22,7 +22,7 @@ Working Student interested in digital forensics and incident response.
 - Developed SIGMA Rules to detect malware-related activities within network and system logs.
 - Tested and validated SIGMA Rules using real malware in a secure sandbox environment.
 
-**Establishing a Mobile Malware Lab with Integrated Security Infrastructure Services**
+**Establishing a Mobile Malware Lab with integrated Security Infrastructure Services**
 
 - Setting up SIEM solutions, intrusion detection/prevention systems and configuration of software firewall solutions.
 - Establishing highly secure malware sandbox environments, enabling controlled execution and analysis of malicious software.
